@@ -1,0 +1,63 @@
+body {
+    background: black;
+}
+
+.post {
+    width: 400px;
+    margin: auto;
+    background: white;
+}
+
+
+.fa-brands {
+    float: left;
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+h3 {
+    float: left;
+    margin-right: 5px;
+    margin-top: 15px;
+}
+
+h5 {
+
+    float: left;
+    margin-top: 35px;
+    margin-left: -55px;
+    
+}
+
+
+.fa-solid {
+    float: right;
+    margin-top: 30px;
+    margin-right: 5px;
+}
+
+
+.post-img img {
+    width: 400px;
+}
+
+.post-seccion {
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.fa-bookmark {
+    float: right;
+
+}
+
+.post-items{
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.post-parrafo{
+   margin: 5px 5px;
+   text-align: justify;
+}
